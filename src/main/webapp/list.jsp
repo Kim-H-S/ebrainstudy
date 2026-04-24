@@ -67,5 +67,9 @@ th, td {
 	</tbody>
 </table>
 
+<br>
+
+<input type="button" value="등록">
+
 </body>
 </html>
