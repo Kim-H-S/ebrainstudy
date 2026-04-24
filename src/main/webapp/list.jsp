@@ -38,6 +38,33 @@ th, td {
 			<th class="updated_at">수정 일시</th>
 		</tr>
 	</thead>
+	<!-- 테스트 -->
+	<tbody>
+		<tr>
+            <td>JAVA</td>
+            <td>제목 예시</td>
+            <td>홍길동</td>
+            <td>123</td>
+            <td>2024-01-01 12:00:00</td>
+            <td>2024-01-02 15:30:00</td>
+        </tr>
+        <tr>
+            <td>JavaScript</td>
+            <td>제목 예시</td>
+            <td>홍길동</td>
+            <td>123</td>
+            <td>2024-01-01 12:00:00</td>
+            <td>2024-01-02 15:30:00</td>
+        </tr>
+        <tr>
+            <td>Database</td>
+            <td>제목 예시</td>
+            <td>홍길동</td>
+            <td>123</td>
+            <td>2024-01-01 12:00:00</td>
+            <td>2024-01-02 15:30:00</td>
+        </tr>
+	</tbody>
 </table>
 
 </body>
